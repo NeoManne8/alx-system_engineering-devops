@@ -1,1 +1,1 @@
-shell, basics readme
+describing what each script is doing
